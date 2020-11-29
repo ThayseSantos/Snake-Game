@@ -1,3 +1,3 @@
 <h1> Snake Game </h1>
 
-developer - Thayse-han
+developer - Thayse-chan
